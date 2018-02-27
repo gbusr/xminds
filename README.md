@@ -1,0 +1,2 @@
+# xminds
+xmindnote
